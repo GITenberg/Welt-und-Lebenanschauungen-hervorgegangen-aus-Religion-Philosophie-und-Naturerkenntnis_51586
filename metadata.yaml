@@ -1,5 +1,8 @@
 _repo: Welt-und-Lebenanschauungen-hervorgegangen-aus-Religion-Philosophie-und-Naturerkenntnis_51586
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 51586-h/images/cover.jpg
 creator:
   author:
     agent_name: Weinstein, Max B. (Max Bernhard)
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '46480'
     url: http://www.gutenberg.org/2009/agents/46480
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51586#Welt-und-Lebenanschauungen-hervorgegangen-aus-Religion-Philosophie-und-Naturerkenntnis
 gutenberg_issued: '2016-03-28'
 gutenberg_type: Text
 identifiers:
