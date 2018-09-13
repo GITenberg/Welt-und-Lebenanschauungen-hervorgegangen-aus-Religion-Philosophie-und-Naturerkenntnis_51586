@@ -1,0 +1,27 @@
+_repo: Welt-und-Lebenanschauungen-hervorgegangen-aus-Religion-Philosophie-und-Naturerkenntnis_51586
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Weinstein, Max B. (Max Bernhard)
+    alias: Weinstein, Max Bernhard
+    birthdate: 1852
+    gutenberg_agent_id: '46480'
+    url: http://www.gutenberg.org/2009/agents/46480
+description: ''
+gutenberg_issued: '2016-03-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51586'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Philosophy of nature'
+- !lcc 'B'
+- !lcsh 'Religion -- History'
+- !lcsh 'Philosophy -- History'
+- !lcsh 'Ontology'
+- GITenberg
+title: Welt- und Lebenanschauungen; hervorgegangen aus Religion, Philosophie und Naturerkenntnis
+url: http://www.gutenberg.org/ebooks/51586
